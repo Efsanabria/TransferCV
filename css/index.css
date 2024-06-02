@@ -87,6 +87,12 @@ transform: skewY(-5deg)
     margin-right: 30px;
 }
 
+.volver .volv {
+    color: #3DCCD9;
+    text-align: right;
+    margin-right: 30px;
+}
+
 body {
     margin: 0;
     padding: 0;
